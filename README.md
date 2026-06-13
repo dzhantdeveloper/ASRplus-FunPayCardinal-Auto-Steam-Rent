@@ -1,7 +1,6 @@
 # ASR+ — Auto Steam Rental Plugin for Cardinal
 
 **Версия:** 1.0.0  
-**Автор:** [@Dzhants](https://t.me/Dzhants)  
 **Платформа:** [Cardinal (FunPay)](https://github.com/sidor0912/FunPayCardinal)
 
 Плагин для автоматической почасовой аренды Steam аккаунтов через FunPay.  
@@ -33,7 +32,3 @@
 - Cardinal (FunPay)
 - Python 3.10+
 - Зависимости устанавливаются автоматически при первом запуске
-
-## 📢 Поддержка
-
-Telegram-канал автора: [t.me/Dzhants](https://t.me/Dzhants)
